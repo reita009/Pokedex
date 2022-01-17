@@ -27,7 +27,7 @@ header .header-banner img{
 
 .section-1{
     width: 100%;
-    height: 1800px;
+    height: 2600px;
     background-color: #f8bbd8;
     
 }
@@ -49,7 +49,7 @@ header .header-banner img{
 .container .section1-title h1{
     font-size: 60px;
 }
-.pokemon-box{
+.pokemon-box{   
     margin: auto;
     width: 80%;
     height: 80%;
@@ -63,6 +63,7 @@ header .header-banner img{
     height: 300px;
     border-radius: 50%;
     margin-right: 55px;
+    margin-top: 20px;
 }
 .pokemon-card    img{
     margin-top: 30px;
